@@ -5,7 +5,7 @@ import WeatherApp from './components/weatherApp/WeatherApp';
 function App() {
   return (
     <div className="App">
-      <h1>Weather In Top Cities</h1>
+      <h1>Weather At Top Cities</h1>
       <WeatherApp/>
     </div>
   );
